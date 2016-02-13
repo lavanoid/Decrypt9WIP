@@ -1,6 +1,9 @@
 # Decrypt9
 _Open source decryption tools for the Nintendo 3DS console_
 
+#I wanna add da CFW to dis!!!!!!
+I want to add the ability to boot a CFW through Decrypt9, giving the flexibility of it's tools and to have custom firmware in an all-in-one solution.
+
 ## Decrypt9 WIP (work-in-progress) by d0k3 
 
 This is a work in progress fork of Archshifts original Decrypt9, including bleeding edge new features. Note that the names of the exectuable files for this are Decrypt9WIP.* instead of Decrypt9.*. New features introduced in this will eventually get pulled into [Archshifts repo](https://github.com/archshift/Decrypt9).

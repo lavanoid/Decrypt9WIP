@@ -14,6 +14,13 @@
 MenuInfo menu[] =
 {
     {
+        "Boot CFW", 2,
+        {
+            { "EmuNAND",                      &BootCFW(1),                0 },
+            { "SysNAND",                      &BootCFW(0),                0 }
+        }
+    },
+    {
         "XORpad Generator Options", 7,
         {
             { "NCCH Padgen",                  &NcchPadgen,            0 },
